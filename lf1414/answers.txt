@@ -1,0 +1,27 @@
+Question 1:
+
+and is a reserved word and cannot be a Python name.
+1var starts with a number and cannot be a Python name.
+my-name contains a hyphen, which is not allowed in Python names.
+
+_and, var, var1, your_name, and COLOR can be a names
+
+Question 2:
+
+a = False; is a boolean
+b = 3.7; is a float
+c = 'Alex'; is a string
+d = 7; is an int
+e = 'True'; is a string
+f = 17j; is a complex
+g = '17'; is a string
+h = True; is a boolean
+i = '3.14159'; is a string
+
+Question 3:
+
+b and c = False
+b or c = True
+not a and b = True
+(a and b) or not c = True
+not b and not (a or c) = False
